@@ -1,0 +1,203 @@
+.mainheading{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 4em;
+    color: black;
+}
+
+/*Nav styleing*/
+nav{
+    background-color: darkgray;
+    text-align: center;
+    color:white;
+    position:fixed;
+    z-index:7;
+    float:left;
+    
+}
+nav li{
+list-style: none;
+
+font-weight: bold;
+padding:10px;
+
+font-size: 20px;
+color:white;
+}
+.nav ul{
+    margin:2px;
+    padding:2px;
+}
+a:hover{
+    color:blue;
+}
+a{
+    color:white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*text box*/
+.text{
+    border:1px solid black;
+    width:70%;
+    height:70%;
+    padding-left:20px;
+    margin: 0 auto;
+    margin-bottom:20px;
+}
+/*listing style*/
+.list1{
+    font-weight :700px (bold);
+    font-size:26px;
+    font-family:'nunito sans';
+}
+.list2{
+    font-weight :500px (bold);
+    font-size:18px;
+    font-family:poppins;
+}
+.list3{
+    font-weight :400px;
+    font-size:14px;
+    font-family:poppins;
+}
+
+
+/*color border*/
+.colors{
+    border:1px solid black;
+    width:70%;
+    height:50%;
+    padding-left:20px;
+    margin: 0 auto;
+    margin-bottom:20px;
+}
+/*color box*/
+.color1{
+    
+    background-color: #2d5dcc;
+    width:30%;;
+    padding:10px;
+    top:20px;
+    height:10%;
+    padding-bottom:40px;
+}
+.color1 h3{
+    text-align: center;
+}
+.color2{
+    
+    background-color:  #d957d9;
+    width:30%;;
+    padding:10px;
+    padding-bottom:40px;
+    height:10%;
+  }
+.color2 h3{
+    text-align: center;
+}
+.color3{
+    
+    background-color:#4fe0b0;
+    width:30%;;
+    padding:10px;
+    padding-bottom:40px;
+    height:10%;
+  
+}
+.color3 h3{
+    text-align: center;
+}
+.color4{
+    
+    background-color:#efd9ca;
+    width:30%;;
+    padding:10px;
+    padding-bottom:40px;
+    
+    height:10%;
+  
+}
+.color4 h3{
+    text-align: center;
+}
+
+
+.color1{
+    float:left;
+    
+}
+.color2{
+    float:left;
+    
+    margin-left:20px;
+}
+.color3 {
+    margin-left:20px;
+    float:left;
+    
+}
+.color4{
+    margin-top:20px;
+    float:left;
+    
+}
+
+/*font box*/
+.fonts{
+    border:1px solid black;
+    width:70%;
+    height:100%;
+    padding-left:20px;
+    margin: 0 auto;
+    margin-bottom:20px;
+}
+/* Source code pro font styleing*/
+.leftP1{
+    font-family:'Source Code Pro', monospace;
+font-style: normal;
+}
+.leftP2{
+    font-family:'Source Code Pro', monospace;
+    font-weight:bold;
+}
+.leftP3{
+    font-family:'Source Code Pro', monospace;
+    font-style: italic;
+}
+
+/*Nunito styleing*/
+.rightP1{
+    font-family: 'Nunito Sans', sans-serif;
+    font-style:normal;
+}
+.rightP2{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight:bold;
+}
+.rightP3{
+    font-family: 'Nunito Sans', sans-serif;
+    font-style:italic;
+}
+
+.fonts h2{
+    text-decoration: underline;
+}
+.column2{
+    float:left;
+    margin:1px;
+    padding:2px;
+}
+
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    margin:30px;
+  }
+  
+  
+  
